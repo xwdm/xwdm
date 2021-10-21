@@ -1,9 +1,8 @@
 <p align="center">
   <a href="https://xw.is-a.dev/">
-    <img src="https://user-images.githubusercontent.com/44347946/125663447-285e0715-057d-42fa-a173-d313aa7f8ab9.png"></a>
 </p>
 <p align="center">
-    <a href="https://discordapp.com/users/749998774566387742">
+      <a href="https://discordapp.com/users/749998774566387742">
    <img alt="Discord" src="https://img.shields.io/badge/Discord-xw%234866-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=20&labelColor=000'"></a>  
   <a href="https://github.com/xw">
    <img alt="Github" src="https://img.shields.io/github/followers/xw?color=1DA1F2&logo=github&label=Followers&style=for-the-badge"></a>   
